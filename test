@@ -1,0 +1,155 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "name": "Komikcast",
+      "status": true,
+      "website": "https://komikcast.com/\r\n",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "Mangaku",
+      "status": true,
+      "website": "http://mangaku.in/",
+      "command": {
+        "search": false,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "Mangacan",
+      "status": true,
+      "website": "http://mangacanblog.com/",
+      "command": {
+        "search": false,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "Nanime",
+      "status": true,
+      "website": "https://nanime.in//",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "NeuManga",
+      "status": true,
+      "website": "https://neumanga.tv/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "MangaShiro",
+      "status": true,
+      "website": "https://mangashiro.net/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "Bato.to",
+      "status": true,
+      "website": "https://bato.to/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "OtakuFile",
+      "status": true,
+      "website": "https://otakufile.com/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "KomikGue.com",
+      "status": true,
+      "website": "https://www.komikgue.com/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "KomikIND",
+      "status": true,
+      "website": "https://komikind.net/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "MangaID",
+      "status": true,
+      "website": "https://www.mangaid.net/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "KomikMama",
+      "status": true,
+      "website": "http://www.komikmama.com/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "MangaKita",
+      "status": true,
+      "website": "http://www.mangakita.net/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "KomikGO",
+      "status": true,
+      "website": "https://komikgo.com/",
+      "command": {
+        "search": true,
+        "host": true,
+        "grab": true
+      }
+    },
+    {
+      "name": "BKomik",
+      "status": false,
+      "website": "http://bkomik.com/",
+      "command": {
+        "search": false,
+        "host": false,
+        "grab": false
+      }
+    }
+  ]
+}
